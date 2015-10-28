@@ -1,0 +1,194 @@
+--->   UP @ 3001  <------
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET   /g/                       --> main.func·004 (4 handlers)
+[GIN]2015/10/27 19:57:08 2015/10/27 - 19:57:08 |200|  63.468027ms | [::1]:56229 |GET     /g/
+[MARTINI]2015/10/27 19:57:11 Started GET /m/ for [::1]:56229
+[MARTINI]2015/10/27 19:57:11 Completed 200 OK in 30.628878ms
+[GIN]2015/10/27 19:57:45 2015/10/27 - 19:57:45 |200|    232.069us | [::1]:56229 |GET     /g/
+--->   UP @ 3001  <------
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET   /g/                       --> main.func·004 (4 handlers)
+[GIN]2015/10/27 19:59:48 2015/10/27 - 19:59:48 |200|   39.34582ms | [::1]:56315 |GET     /g/
+[GIN]2015/10/27 19:59:51 2015/10/27 - 19:59:51 |200|    210.269us | [::1]:56315 |GET     /g/
+--->   UP @ 3001  <------
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET   /g/                       --> main.func·004 (4 handlers)
+[GIN]2015/10/27 20:05:33 2015/10/27 - 20:05:33 |200|  38.486855ms | [::1]:56490 |GET     /g/
+[GIN]2015/10/27 20:06:07 2015/10/27 - 20:06:07 |200|    289.066us | [::1]:56490 |GET     /g/
+[MARTINI]2015/10/27 20:06:11 Started GET /m/ for [::1]:56490
+[MARTINI]2015/10/27 20:06:11 Completed 200 OK in 19.766738ms
+[MARTINI]2015/10/27 20:06:13 Started GET /m/ for [::1]:56490
+[MARTINI]2015/10/27 20:06:13 Completed 200 OK in 88.161us
+--->   UP @ 3001  <------
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET   /g/                       --> main.func·004 (4 handlers)
+[GIN]2015/10/27 20:06:57 2015/10/27 - 20:06:57 |200|  12.742465ms | [::1]:56540 |GET     /g/
+[MARTINI]2015/10/27 20:07:02 Started GET /m/ for [::1]:56540
+[MARTINI]2015/10/27 20:07:02 Completed 200 OK in 120.433us
+[GIN]2015/10/27 20:08:41 2015/10/27 - 20:08:41 |200|   41.67182ms | [::1]:56540 |GET     /g/
+--->   UP @ 3001  <------
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET   /g/                       --> main.func·004 (4 handlers)
+[GIN]2015/10/27 20:09:38 2015/10/27 - 20:09:38 |200|  12.733532ms | [::1]:56624 |GET     /g/
+[MARTINI]2015/10/27 20:09:39 Started GET /m/ for [::1]:56624
+[MARTINI]2015/10/27 20:09:39 Completed 200 OK in 127.923us
+--->   UP @ 3001  <------
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET   /g/                       --> main.func·004 (4 handlers)
+--->   UP @ 3001  <------
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET   /g/                       --> main.func·004 (4 handlers)
+[GIN]2015/10/27 20:13:04 2015/10/27 - 20:13:04 |200|  16.871709ms | [::1]:56718 |GET     /g/
+[GIN]2015/10/27 20:13:23 2015/10/27 - 20:13:23 |200|    238.487us | [::1]:56718 |GET     /g/
+[GIN]2015/10/27 20:13:26 2015/10/27 - 20:13:26 |200|    243.577us | [::1]:56718 |GET     /g/
+[MARTINI]2015/10/27 20:13:29 Started GET /m/ for [::1]:56718
+[MARTINI]2015/10/27 20:13:29 Completed 200 OK in 29.235377ms
+[GIN]2015/10/27 20:13:46 2015/10/27 - 20:13:46 |200|    231.825us | [::1]:56718 |GET     /g/
+--->   UP @ 3001  <------
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET   /g/                       --> main.func·004 (4 handlers)
+[GIN]2015/10/27 21:51:16 2015/10/27 - 21:51:16 |200|  31.321107ms | [::1]:59293 |GET     /g/
+--->   UP @ 3001  <------
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET   /g/                       --> main.func·004 (4 handlers)
+[GIN]2015/10/27 21:52:26 2015/10/27 - 21:52:26 |200|  13.145097ms | [::1]:59327 |GET     /g/
+[GIN]2015/10/27 21:52:30 2015/10/27 - 21:52:30 |200|    277.559us | [::1]:59327 |GET     /g/
+[MARTINI]2015/10/27 21:52:35 Started GET /m/ for [::1]:59327
+[MARTINI]2015/10/27 21:52:35 Completed 200 OK in 236.834us
+[MARTINI]2015/10/27 21:52:38 Started GET /m/ for [::1]:59327
+[MARTINI]2015/10/27 21:52:38 Completed 200 OK in 85.439us
+[GIN]2015/10/27 21:52:40 2015/10/27 - 21:52:40 |200|    183.557us | [::1]:59327 |GET     /g/
+--->   UP @ 3001  <------
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET   /g/                       --> main.func·004 (4 handlers)
+[MARTINI]2015/10/27 21:54:00 Started GET /m/ for [::1]:59373
+[MARTINI]2015/10/27 21:54:00 Completed 200 OK in 316.193us
+--->   UP @ 3001  <------
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET   /g/                       --> main.func·004 (4 handlers)
+[MARTINI]2015/10/27 22:08:08 Started GET /m/ for [::1]:59737
+[MARTINI]2015/10/27 22:08:08 Completed 200 OK in 338.595us
+--->   UP @ 3001  <------
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET   /g/                       --> main.func·004 (4 handlers)
+[MARTINI]2015/10/27 22:09:56 Started GET /m/ for [::1]:59789
+[MARTINI]2015/10/27 22:09:56 Completed 200 OK in 308.944us
+[MARTINI]2015/10/27 22:09:59 Started GET /m/ for [::1]:59789
+[MARTINI]2015/10/27 22:09:59 Completed 200 OK in 90.412us
+--->   UP @ 3001  <------
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET   /g/                       --> main.func·004 (4 handlers)
+[GIN]2015/10/27 22:13:14 2015/10/27 - 22:13:14 |200|  28.233956ms | [::1]:59878 |GET     /g/
+[MARTINI]2015/10/27 22:13:17 Started GET /m/ for [::1]:59878
+[MARTINI]2015/10/27 22:13:17 Completed 200 OK in 14.102711ms
+[MARTINI]2015/10/27 22:14:03 Started GET /m/ for [::1]:59878
+[MARTINI]2015/10/27 22:14:03 Completed 200 OK in 230.644us
+[MARTINI]2015/10/27 22:14:05 Started GET /m/ for [::1]:59878
+[MARTINI]2015/10/27 22:14:05 Completed 200 OK in 104.149us
+[MARTINI]2015/10/27 22:14:11 Started GET /m/ for [::1]:59878
+[MARTINI]2015/10/27 22:14:11 Completed 200 OK in 158.243us
+--->   UP @ 3001  <------
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET   /g/                       --> main.func·004 (4 handlers)
+[MARTINI]2015/10/27 22:18:11 Started GET /m/ for [::1]:60019
+[MARTINI]2015/10/27 22:18:11 Completed 200 OK in 441.056us
+[MARTINI]2015/10/27 22:18:16 Started GET /m/ for [::1]:60019
+[MARTINI]2015/10/27 22:18:16 Completed 200 OK in 85.485us
+[GIN]2015/10/27 22:18:20 2015/10/27 - 22:18:20 |200|  31.622785ms | [::1]:60019 |GET     /g/
+--->   UP @ 3001  <------
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET   /g/                       --> main.func·004 (4 handlers)
+--->   UP @ 3001  <------
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET   /g/                       --> main.func·004 (4 handlers)
+[MARTINI]2015/10/27 22:24:02 Started GET /m/ for [::1]:60151
+[MARTINI]2015/10/27 22:24:02 Completed 200 OK in 658.292us
+--->   UP @ 3001  <------
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET   /g/                       --> main.func·004 (4 handlers)
+[MARTINI]2015/10/27 22:38:49 Started GET /m/ for [::1]:60498
+[MARTINI]2015/10/27 22:38:50 Completed 200 OK in 52.061293ms
+[GIN]2015/10/27 22:38:55 2015/10/27 - 22:38:55 |200|   70.30052ms | [::1]:60498 |GET     /g/
+[MARTINI]2015/10/27 22:39:22 Started GET /m/ for [::1]:60498
+[MARTINI]2015/10/27 22:39:22 Completed 200 OK in 90.288us
+[GIN]2015/10/27 22:39:24 2015/10/27 - 22:39:24 |200|    209.423us | [::1]:60498 |GET     /g/
+--->   UP @ 3001  <------
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET   /g/                       --> main.func·004 (4 handlers)
+[GIN]2015/10/27 22:41:45 2015/10/27 - 22:41:45 |200|  32.742287ms | [::1]:60597 |GET     /g/
+[GIN]2015/10/27 22:41:49 2015/10/27 - 22:41:49 |200|    237.614us | [::1]:60597 |GET     /g/
+[MARTINI]2015/10/27 22:41:52 Started GET /m/ for [::1]:60597
+[MARTINI]2015/10/27 22:41:52 Completed 200 OK in 218.101us
+[GIN]2015/10/27 22:41:55 2015/10/27 - 22:41:55 |200|    208.779us | [::1]:60597 |GET     /g/
+[GIN]2015/10/27 22:43:46 2015/10/27 - 22:43:46 |200|    256.332us | [::1]:60597 |GET     /g/
+[GIN]2015/10/27 22:43:49 2015/10/27 - 22:43:49 |200|    186.159us | [::1]:60597 |GET     /g/
+[MARTINI]2015/10/27 22:43:51 Started GET /m/ for [::1]:60597
+[MARTINI]2015/10/27 22:43:51 Completed 200 OK in 195.483us
+[GIN]2015/10/27 22:43:53 2015/10/27 - 22:43:53 |200|    350.645us | [::1]:60597 |GET     /g/
+[MARTINI]2015/10/27 22:44:02 Started GET /m/ for [::1]:60597
+[MARTINI]2015/10/27 22:44:02 Completed 200 OK in 120.528us
+[GIN]2015/10/27 22:44:08 2015/10/27 - 22:44:08 |200|    233.529us | [::1]:60597 |GET     /g/
+[MARTINI]2015/10/27 22:44:10 Started GET /m/ for [::1]:60597
+[MARTINI]2015/10/27 22:44:10 Completed 200 OK in 98.476us
+[GIN]2015/10/27 22:44:12 2015/10/27 - 22:44:12 |200|    231.438us | [::1]:60597 |GET     /g/
+[GIN]2015/10/27 22:44:38 2015/10/27 - 22:44:38 |200|     216.04us | [::1]:60597 |GET     /g/
+[MARTINI]2015/10/27 22:44:44 Started GET /m/ for [::1]:60597
+[MARTINI]2015/10/27 22:44:44 Completed 200 OK in 142.894us
+[GIN]2015/10/27 22:44:47 2015/10/27 - 22:44:47 |200|    295.827us | [::1]:60597 |GET     /g/
+[MARTINI]2015/10/27 22:44:55 Started GET /m/ for [::1]:60597
+[MARTINI]2015/10/27 22:44:55 Completed 200 OK in 91.152us
+[GIN]2015/10/27 22:44:57 2015/10/27 - 22:44:57 |200|    193.638us | [::1]:60597 |GET     /g/
